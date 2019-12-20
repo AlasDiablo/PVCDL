@@ -1,6 +1,8 @@
 <?php
 
-require_once 'vendor/autoload.php';
+//////////////////////////////////////////
+require_once 'vendor/autoload.php';     // DON'T DO THIS
+//////////////////////////////////////////
 
 use mvcdeploy\std\IController;
 
