@@ -1,0 +1,14 @@
+{
+  "_comment": "The require are use for the test and example.",
+  "require": {
+    "illuminate/database": "5.5.*",
+    "slim/slim": "2.*",
+    "php": ">=7.0.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "mvcdeploy\\": "./alasdiablo/mvc/deploy"
+    }
+  }
+}
